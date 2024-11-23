@@ -1,0 +1,11 @@
+{
+    "leaves": [
+      { "id": "1", "name": "Sick Leave", "availableLeaves": 5 },
+      { "id": "2", "name": "Comp Off", "availableLeaves": 2 },
+      { "id": "3", "name": "Earned Leave", "availableLeaves": 10 },
+      { "id": "4", "name": "Optional Leave", "availableLeaves": 8 }
+    ],
+    "leaveRequest" : [
+        { "selectedLeaveType": "", "selectStartDate": "", "selectEndDate": "", "requestingLeaves": 0 }
+    ]
+}
